@@ -1,0 +1,56 @@
+#!/bin/bash
+
+sudo pacman -S --noconfirm \
+alacritty \
+aspnet-runtime-8.0 \
+awesome-terminal-fonts \
+bash-completion \
+bluedevil \
+bluez \
+bluez-utils \
+chromium \
+dbeaver \
+discord \
+docker \
+docker-compose \
+dolphin \
+dolphin-plugins \
+dotnet-sdk-8.0 \
+firefox \
+galculator \
+git \
+github-cli \
+go \
+gparted \
+gwenview \
+htop \
+hwinfo \
+i3-wm \
+i3blocks \
+i3lock \
+i3status \
+inetutils \
+inotify-tools \
+insomnia \
+kitty \
+neovim \
+nodejs \
+npm \
+obsidian \
+okular \
+openssh \
+openvpn \
+picom \
+postgresql \
+rclone \
+rsync \
+telegram-desktop \
+tmux \
+unrar \
+unzip \
+usbutils \
+visual-studio-code-bin \
+yarn \
+yay \
+zip \
+zsh
