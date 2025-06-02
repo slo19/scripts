@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo pacman -S --noconfirm \
+sudo pacman -Sy \
 alacritty \
 aspnet-runtime-8.0 \
 awesome-terminal-fonts \
@@ -31,7 +31,6 @@ i3lock \
 i3status \
 inetutils \
 inotify-tools \
-insomnia \
 kitty \
 neovim \
 nodejs \
@@ -49,8 +48,9 @@ tmux \
 unrar \
 unzip \
 usbutils \
-visual-studio-code-bin \
 yarn \
 yay \
 zip \
 zsh
+
+yay -Sy insomnia visual-studio-code-bin
