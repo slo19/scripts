@@ -2,8 +2,9 @@
 
 sudo pacman -Sy \
 alacritty \
-aspnet-runtime-8.0 \
+aspnet-runtime-9.0 \
 awesome-terminal-fonts \
+base-devel \
 bash-completion \
 bluedevil \
 bluez \
@@ -18,6 +19,7 @@ dolphin-plugins \
 dotnet-sdk-8.0 \
 firefox \
 galculator \
+gcc \
 git \
 github-cli \
 go \
