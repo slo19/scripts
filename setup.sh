@@ -50,6 +50,7 @@ tmux \
 unrar \
 unzip \
 usbutils \
+virtualbox \
 yarn \
 yay \
 zip \
